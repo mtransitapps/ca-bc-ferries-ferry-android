@@ -1,8 +1,109 @@
 {
     "default_route_id_enabled": true,
-    "use_route_short_name_for_route_id": true,
+    "use_route_short_name_for_route_id": false,
+    "route_to_short_name_configs": [
+        {
+            "route_long_name": "Alliford Bay - Skidegate (Moresby Island-Graham Island)",
+            "route_short_name": "AF B - SDG"
+        },
+        {
+            "route_long_name": "Bowen Island - Vancouver (Snug Cove-Horseshoe Bay)",
+            "route_short_name": "BW I - VCV"
+        },
+        {
+            "route_long_name": "Brentwood Bay - Mill Bay (Saanich Peninsula - Vancouver Island)",
+            "route_short_name": "BW B - M B"
+        },
+        {
+            "route_long_name": "Campbell River - Quadra Island (Quathiaski Cove)",
+            "route_short_name": "CB R - QD I"
+        },
+        {
+            "route_long_name": "Chemainus - Thetis Island - Penelakut Island",
+            "route_short_name": "CHM - PNL"
+        },
+        {
+            "route_long_name": "Comox - Powell River (Little River-Westview)",
+            "route_short_name": "CM - PW R"
+        },
+        {
+            "route_long_name": "Denman Island - Hornby Island (Gravelly Bay-Shingle Spit)",
+            "route_short_name": "DM I - HB I"
+        },
+        {
+            "route_long_name": "Haida Gwaii (Prince Rupert - Skidegate)",
+            "route_short_name": "HD G"
+        },
+        {
+            "route_long_name": "Inside Passage",
+            "route_short_name": "ISD PSG"
+        },
+        {
+            "route_long_name": "Langdale to Gambier Island & Keats Island",
+            "route_short_name": "LDL - GB & K I"
+        },
+        {
+            "route_long_name": "Nanaimo Harbour - Gabriola Island (Vancouver Island - Descanso Bay)",
+            "route_short_name": "NMM HB - GB I"
+        },
+        {
+            "route_long_name": "Port McNeill - Alert Bay - Sointula (Vancouver Island-Cormorant Island-Malcolm Island)",
+            "route_short_name": "P MN - STL"
+        },
+        {
+            "route_long_name": "Powell River - Texada Island (Westview-Blubber Bay)",
+            "route_short_name": "PW R - TX I"
+        },
+        {
+            "route_long_name": "Quadra Island - Cortes Island (Heriot Bay-Whaletown)",
+            "route_short_name": "QD I - CT I"
+        },
+        {
+            "route_long_name": "Salt Spring Island (Vesuvius Bay - Crofton)",
+            "route_short_name": "S S I"
+        },
+        {
+            "route_long_name": "Salt Spring Island - Victoria (Fulford Harbour - Swartz Bay)",
+            "route_short_name": "S S I - VTR"
+        },
+        {
+            "route_long_name": "Sechelt - Powell River (Earls Cove-Saltery Bay)",
+            "route_short_name": "SCH - PW R"
+        },
+        {
+            "route_long_name": "Southern Gulf Islands",
+            "route_short_name": "S G I"
+        },
+        {
+            "route_long_name": "Vancouver - Nanaimo (Tsawwassen-Duke Point)",
+            "route_short_name": "VCV - NMM"
+        },
+        {
+            "route_long_name": "Vancouver - Victoria (Tsawwassen-Swartz Bay)",
+            "route_short_name": "VCV - VTR"
+        },
+        {
+            "route_long_name": "Vancouver Island - Denman Island (Buckley Bay - Denman West)",
+            "route_short_name": "VCV I - D I"
+        },
+        {
+            "route_long_name": "West Van - Sunshine Coast (Horseshoe Bay-Langdale)",
+            "route_short_name": "W VCV - SS C"
+        },
+        {
+            "route_long_name": "West Vancouver - Nanaimo (Horseshoe Bay-Departure Bay)",
+            "route_short_name": "W VCV - NMM"
+        }
+    ],
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(eastbound|westbound|northbound|southbound)",
+            "ignore_case": true,
+            "comment": "Removes directional indicators from headsigns"
+        }
+    ],
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
     "stop_name_cleaners": []
