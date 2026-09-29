@@ -6,18 +6,39 @@
 1239501,0,'Saltery Bay (Powell River)',12395
 1239601,0,'Comox (Little River)',12396
 1239600,0,'Powell River (Westview)',12396
+1239700,0,'Powell River (Westview)',12397
+1239701,0,'Texada Isl (Blubber Bay)',12397
 1240001,0,'Bowen Isl (Snug Cv)',12400
 1240000,0,'Horseshoe Bay (Vancouver)',12400
+1240100,0,'Multidirectional',12401
+1240201,0,'Brentwood Bay (Saanich Peninsula)',12402
+1240200,0,'Mill Bay (Vancouver)',12402
 1240501,0,'Chemainus',12405
 1240500,0,'Thetis Island',12405
 1242201,0,'Swartz Bay (Victoria)',12422
 1242200,0,'Tsawwassen (Vancouver)',12422
+1242500,0,'Gabriola Isl (Descanso Bay)',12425
+1242501,0,'Nanaimo Harbour (Vancouver Isl)',12425
+1242601,0,'Crofton (Osborne Bay)',12426
+1242600,0,'Vesuvius Bay (Salt Spg Isl)',12426
+1242700,0,'Fulford Harbour (Salt Spg Isl)',12427
+1242701,0,'Swartz Bay (Victoria)',12427
 1242801,0,'Buckley Bay (Vancouver Isl)',12428
 1242800,0,'Denman Isl (W)',12428
 1242901,0,'Denman Isl (Gravelly Bay)',12429
 1242900,0,'Hornby Isl (Shingle Spit)',12429
+1243001,0,'Campbell River (Vancouver Isl)',12430
+1243000,0,'Quadra Isl (Quathiaski Cv)',12430
+1243100,0,'Cortes Isl (Whaletown)/George Harbor (Mosaic)',12431
+1243101,0,'Quadra Isl (Heriot Bay)',12431
+1243201,0,'Port McNeill',12432
+1243200,0,'Sointula',12432
 1243400,0,'Bella Coola/Prince Rupert',12434
 1243401,0,'Port Hardy',12434
+1244100,0,'Prince Rupert',12441
+1244101,0,'Skidegate (Graham Isl)',12441
+1244201,0,'Alliford Bay (Moresby Isl)',12442
+1244200,0,'Skidegate (Graham Isl)',12442
 1244301,0,'Swartz Bay (Victoria)',12443
 1244300,0,'Tsawwassen (Vancouver)',12443
 1244401,0,'Departure Bay (Nanaimo)',12444
